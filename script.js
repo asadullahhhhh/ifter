@@ -1,21 +1,21 @@
 const data = [
-    { name: "Galib (Host)", phone: "01308150275", status: "Okh", amount: "0", },
+    { name: "Galib (G)", phone: "01308150275", status: "Okh", amount: "250", },
     { name: "Siam", phone: "01824423211", status: "Okh", amount: "0", },
     { name: "Bayzid", phone: "01864746518", status: "Okh", amount: "0", },
     { name: "Sakib", phone: "01797806018", status: "Okh", amount: "0", },
-    { name: "Parvej (Host)", phone: "01315724240", status: "Okh", amount: "0",},
+    { name: "Parvej", phone: "01315724240", status: "Okh", amount: "0",},
     { name: "Anas", phone: "01839494231", status: "Okh", amount: "0", },
-    { name: "Tasin", phone: "01747804850", status: "Okh", amount: "0", },
-    { name: "Kaziul", phone: "01926457379", status: "Okh", amount: "250", },
-    { name: "Kader", phone: "01568451358", status: "Okh", amount: "0", },
-    { name: "Tanvir", phone: "01948352607", status: "Okh", amount: "0", },
+    { name: "Tasin (G)", phone: "01747804850", status: "Okh", amount: "250", },
+    { name: "Kaziul (G)", phone: "01926457379", status: "Okh", amount: "250", },
+    { name: "Kader (G)", phone: "01568451358", status: "Okh", amount: "250", },
+    { name: "Tanvir (G)", phone: "01948352607", status: "Okh", amount: "250", },
     { name: "Kalam", phone: "01862317303", status: "Okh", amount: "0", },
     { name: "Wadud", phone: "01750284026", status: "Pending", amount: "0", },
     { name: "Mahin", phone: "01705820425", status: "Okh", amount: "0", },
     { name: "Galib-2", phone: "01708359545", status: "Okh", amount: "0", },
-    { name: "Shawon", phone: "01843059199", status: "Okh", amount: "0", },
-    { name: "Rafi", phone: "0193793373", status: "Okh", amount: "0", },
-    { name: "Aiman", phone: "01518993656", status: "Okh", amount: "250", },
+    { name: "Shawon (S)", phone: "01843059199", status: "Okh", amount: "250", },
+    { name: "Rafi (G)", phone: "01939793373", status: "Okh", amount: "250", },
+    { name: "Aiman (S)", phone: "01518993656", status: "Okh", amount: "250", },
     { name: "Mustahid", phone: "01882985959", status: "Okh", amount: "0", },
     { name: "3-Mota", phone: "", status: "Pending", amount: "0", },
     { name: "3-Mota", phone: "", status: "Pending", amount: "0", },
@@ -25,7 +25,7 @@ const data = [
     // { name: "Nasir's Wife", phone: "", status: "Okh", amount: "0", },
     { name: "Kawsar", phone: "", status: "Pending", amount: "0", },
     { name: "Moinul", phone: "", status: "Pending", amount: "0", },
-    { name: "Maruf", phone: "01763013889", status: "Okh", amount: "0", }
+    { name: "Maruf", phone: "01763013889", status: "Pending", amount: "0", }
 ];
 ;
 
